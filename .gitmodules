@@ -1,0 +1,9 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/yagizHakkiAydin/Server.git
+[submodule "Web-Editor"]
+	path = Web-Editor
+	url = https://github.com/yagizHakkiAydin/Web-Editor
+[submodule "Game"]
+	path = Game
+	url = https://github.com/yagizHakkiAydin/Game
